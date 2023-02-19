@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-with-toolkit/static/css/main.40e6ae2a.css",
+    "main.js": "/todo-with-toolkit/static/js/main.6f5df8e5.js",
+    "index.html": "/todo-with-toolkit/index.html",
+    "main.40e6ae2a.css.map": "/todo-with-toolkit/static/css/main.40e6ae2a.css.map",
+    "main.6f5df8e5.js.map": "/todo-with-toolkit/static/js/main.6f5df8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e6ae2a.css",
+    "static/js/main.6f5df8e5.js"
+  ]
+}
